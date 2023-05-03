@@ -5,37 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0aee35-04cd-45d8-8e29-84909b1bc49c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Class.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Day 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Data Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/List Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/List Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/List copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/booleantype.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/String Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/String Type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/String operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/String_built-in_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/String_formatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Set Type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Set_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Tuple_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/tuple_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/Dictionary_methods_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/Tuple Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/dictionary type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Git.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git.py" beforeDir="false" afterPath="$PROJECT_DIR$/git.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
